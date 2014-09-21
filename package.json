@@ -1,0 +1,44 @@
+{
+  "name": "utf8ize-sourcemaps",
+  "description": "UTF8ize sourcemaps",
+  "version": "0.0.0",
+  "author": {
+    "name": "Takuto Wada",
+    "email": "takuto.wada@gmail.com",
+    "url": "https://github.com/twada"
+  },
+  "bin": {
+    "utf8ize-sourcemaps": "./bin/cmd.js"
+  },
+  "bugs": "https://github.com/twada/utf8ize-sourcemaps/issues",
+  "dependencies": {
+    "concat-stream": "^1.4.6"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "files": [
+    "README.md",
+    "bin",
+    "index.js",
+    "package.json",
+    "test"
+  ],
+  "homepage": "https://github.com/twada/utf8ize-sourcemaps",
+  "keywords": [
+    "i18n",
+    "sourcemap"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://twada.mit-license.org/"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twada/utf8ize-sourcemaps.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
