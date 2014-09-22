@@ -1,19 +1,19 @@
 utf8ize-sourcemaps
 ================================
 
-utf8-ize your sourcemaps
+UTF8-ize your sourcemaps
 
 
 DESCRIPTION
 ---------------------------------------
 
-`utf8ize-sourcemaps` provides a function and a command both appends `charset=utf-8` to SourceMap comment.
+`utf8ize-sourcemaps` provides a function and a command, both appends `charset=utf-8` to SourceMap comment.
 
 
 MOTIVATION
 ---------------------------------------
 
-Sourcemaps have mojibake problem. Unicode characters are broken in sourcemaps.
+Sourcemaps have mojibake problems. Unicode characters are broken in sourcemaps.
 
  * [a problem of '--debug' option](https://github.com/substack/node-browserify/issues/753)
  * [Unicode characters are broken in sourcemap.](https://github.com/substack/node-browserify/issues/893)
