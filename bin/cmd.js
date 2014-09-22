@@ -9,6 +9,7 @@
  * Licensed under the MIT license.
  *   http://twada.mit-license.org/
  */
+'use strict';
 
 var utf8ize = require('../');
 var concat = require('concat-stream');
