@@ -13,7 +13,7 @@ DESCRIPTION
 MOTIVATION
 ---------------------------------------
 
-Sourcemaps have mojibake problems. Unicode characters are broken in sourcemaps.
+Sourcemaps have mojibake problems. Unicode characters are broken in sourcemaps with Chrome.
 
  * [a problem of '--debug' option](https://github.com/substack/node-browserify/issues/753)
  * [Unicode characters are broken in sourcemap.](https://github.com/substack/node-browserify/issues/893)
