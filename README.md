@@ -46,11 +46,11 @@ INSTALL
 
 ### via npm
 
-Install
+Install locally,
 
     $ npm install --save-dev utf8ize-sourcemaps
 
-and/or
+and/or globally.
 
     $ npm install -g utf8ize-sourcemaps
 
