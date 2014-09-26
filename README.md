@@ -3,6 +3,11 @@ utf8ize-sourcemaps
 
 UTF8-ize your sourcemaps
 
+[![Build Status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![License][license-image]][license-url]
+
 
 DESCRIPTION
 ---------------------------------------
@@ -63,3 +68,16 @@ AUTHOR
 LICENSE
 ---------------------------------------
 Licensed under the [MIT](http://twada.mit-license.org/) license.
+
+
+[npm-url]: https://npmjs.org/package/utf8ize-sourcemaps
+[npm-image]: https://badge.fury.io/js/utf8ize-sourcemaps.svg
+
+[travis-url]: http://travis-ci.org/twada/utf8ize-sourcemaps
+[travis-image]: https://secure.travis-ci.org/twada/utf8ize-sourcemaps.svg?branch=master
+
+[depstat-url]: https://gemnasium.com/twada/utf8ize-sourcemaps
+[depstat-image]: https://gemnasium.com/twada/utf8ize-sourcemaps.svg
+
+[license-url]: http://twada.mit-license.org/
+[license-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
