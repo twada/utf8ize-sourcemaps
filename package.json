@@ -30,10 +30,7 @@
     "i18n",
     "sourcemap"
   ],
-  "license": {
-    "type": "MIT",
-    "url": "http://twada.mit-license.org/"
-  },
+  "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
